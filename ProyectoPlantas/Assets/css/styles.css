@@ -1,0 +1,17 @@
+/*Style css*/
+p {
+  font-style: italic;
+  color: blue;
+}
+.header {
+  padding: 100px;
+  background-image: url(../nofondo.jpg);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: xx-large;
+  color: crimson;
+}
+
+.footer {
+  color: red;
+  font-size: xx-large;
+}

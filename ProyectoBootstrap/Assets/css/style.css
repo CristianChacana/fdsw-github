@@ -1,0 +1,19 @@
+body {
+  font-family: "Roboto Light";
+}
+.MainNav {
+  background-color: #28a745;
+  text-align: justify;
+}
+
+#RightMenu {
+  display: flex;
+  justify-content: end;
+  background-color: #28a745;
+}
+#Bground {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+  background-color: #28a745;
+}

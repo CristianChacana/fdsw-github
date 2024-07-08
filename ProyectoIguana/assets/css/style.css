@@ -1,0 +1,76 @@
+body {
+  font-family: "Roboto Light";
+}
+.Container {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  padding: 0%;
+  margin: 0%;
+  font-size: xx-large;
+}
+img {
+  width: 60%;
+}
+
+.header:hover {
+  background-color: black;
+  color: grey;
+  padding: 0%;
+  margin: 0%;
+}
+#Iguana1 {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.Container2 {
+  width: 50%;
+}
+.BoxFlex {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  background-color: black;
+  color: white;
+  font-size: larger;
+}
+#Caracteristicas {
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  background-color: #1e1a13;
+  font-size: xx-large;
+  color: white;
+}
+.Poderes {
+  display: flex;
+  justify-content: space-between;
+  flex: content;
+  height: 300px;
+  display: flex;
+  background-color: #1e1a13;
+  font-size: xx-large;
+  color: white;
+}
+.icon {
+  text-align: center;
+}
+.Galeria {
+  background-color: black;
+  display: flex;
+}
+.Foto {
+  display: inline-block;
+  margin-left: 5%;
+  width: 30%;
+}
+#Footer {
+  display: flex;
+  background-color: #1e1a13;
+  font-size: xx-large;
+  color: white;
+  justify-content: center;
+}
